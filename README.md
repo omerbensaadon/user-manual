@@ -6,7 +6,7 @@ This repo was created to publicly store my Personal User Manual (PUM), see [this
 **PS: If we work together and you have a personal user manual, I'd love to read it!**
 
 ---
-## About Me
+## Bio
 **My name is Omer Bensaadon and I am a Product Manager.**
 
 As a human, I am an Israeli immigrant who spent most of their formative years in South Florida before heading to the University of Alabama where (fun fact) I graduated 1 credit short of a Cryptocurrency Minor.
@@ -18,7 +18,7 @@ I have moved into more and more technical domains in recent years (namely, OSS i
 I am interested in coffee, climbing, economics/politics, history, web3, and interior design.
 
 ---
-## Working with Me
+## Working with Me: Logistics
 **🌎 Timezone:** EST (Brooklyn, NY)
 
 **🕐 Working Hours:** Usually 8AM-3PM + 7PM-9PM (I usually climb in the afternoons when I'm not injured 🤕)
@@ -31,6 +31,10 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 1. **For a quick question,** feel free to DM me on Slack! If I have a status to the effect of "Deep Work" please schedule your message for a later time unless it is rather urgent.
 2. **For a longer discussion,** I would prefer to to spend 30 minutes chatting on Zoom or collaborating on a doc than Slacking back and forth for an hour. If you need my opinion on something where I need a lot of context, some reading material (if it exists) beforehand would be much appreciated!
 3. **For feedback,** feel free to Slack me, start a Zoom meeting, email me, whatever! I love receiving feedback (positive and constructive).
+
+---
+
+## Working with Me: About Me
 
 ### 🦹🏻‍♂️ My Superpowers
 * User, Stakeholder and Customer interviews
