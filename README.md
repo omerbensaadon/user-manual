@@ -1,5 +1,7 @@
 # Omer Bensaadon's Personal User Manual
-Hello! If you're reading this, we probably work together. This repo was created to publicly store my Personal User Manual (PUM), see [this article](https://betterprogramming.pub/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) for more information on PUMs.
+Hello! If you're reading this, we probably work together.
+
+This repo was created to publicly store my Personal User Manual (PUM), see [this article](https://betterprogramming.pub/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) for more information on PUMs.
 
 The questions below are ones I've scraped together from a few different examples, but feel free to use them for your own PUM.
 
@@ -7,7 +9,7 @@ PS: If you read mine, I would be more than happy to hold up my end of the bargai
 
 ---
 ## About Me
-My name is Omer Bensaadon and I am a Product Manager.
+**My name is Omer Bensaadon and I am a Product Manager.**
 
 As a human, I am an Israeli immigrant who spent most of their formative years in South Florida before heading to the University of Alabama where (fun fact) I graduated 1 credit short of a Cryptocurrency Minor.
 
