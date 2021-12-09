@@ -47,7 +47,7 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 * Distraction, sometimes instant messaging like Slack can be a massive liability for me
 * ______ (help me fill in the blank?)
 
-### I do my best work when...
+### ⭐️ I do my best work when...
 * 🤩 My enthusiasm is met with enthusiasm
 * 🚀 I am talking to end-users and shipping software on a regular basis
 * 🧠 I have time and space to do "deep work"
@@ -57,7 +57,7 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 * 🧑‍💻 ENGs are talking to me about ways we could be increasing velocity by addressing cruft
 * 👨🏻‍🚒 I feel my team feels comfortable enough around me to roast me
 
-### I become de-motivated when...
+### ☹️ I become de-motivated when...
 * I am not talking to end-users and am not shipping software on a regular basis.
 * Leadership is too "hands-on" and does not trust me to deliver (i.e. helicopter leadership)
 * I am being pushed to finish something by a specific date (i.e. death march)
@@ -66,7 +66,7 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 
 ### You know I am struggling/stressed when...
 * 😿 I am not my usual smiley, chipper self in meetings!
-* 😵‍💫 I start being checked out from meetings or generally seem distracted
+* 😵‍💫 I start being checked out from meetings or generally seem hard to reach
 * I start being short with you over Slack
 
 ### (COA 12/8/21) I am currently trying to improve and would appreciate feedback on...
