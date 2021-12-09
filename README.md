@@ -32,17 +32,20 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 2. **For a longer discussion,** I would prefer to to spend 30 minutes chatting on Zoom or collaborating on a doc than Slacking back and forth for an hour. If you need my opinion on something where I need a lot of context, some reading material (if it exists) beforehand would be much appreciated!
 3. **For feedback,** feel free to Slack me, start a Zoom meeting, email me, whatever! I love receiving feedback (positive and constructive).
 
-### My Superpowers
+### 🦹🏻‍♂️ My Superpowers
+* User, Stakeholder and Customer interviews
+* Jack-of-all-trades, can do many things pretty well
 * Meeting facilitation
 * Resolving interpersonal issues
-* User, Stakeholder and Customer interviews
-* Jack-of-all-trades
-* Most right-brain
+* Communicating *just* enough
+* ______ (help me fill in the blank?)
 
-### Things I struggle with
+### 😮‍💨 Things I struggle with
 * Pulling and analyzing product data
 * Long form writing
-* 
+* Taking on too much, not effectively delegating
+* Distraction, sometimes instant messaging like Slack can be a massive liability for me
+* ______ (help me fill in the blank?)
 
 ### I do my best work when...
 * 🤩 My enthusiasm is met with enthusiasm
@@ -63,12 +66,12 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 
 ### You know I am struggling/stressed when...
 * 😿 I am not my usual smiley, chipper self in meetings!
-* 😵‍💫 I start being checked out from meetings or generally seem distracted.
+* 😵‍💫 I start being checked out from meetings or generally seem distracted
 * I start being short with you over Slack
 
 ### (COA 12/8/21) I am currently trying to improve and would appreciate feedback on...
 * ✍️ My long-form writing ability, striking a balance between conciseness and accuracy
-* My ability to delegate work effectively (I tend to take on too much)
+* My ability to delegate work effectively
 * 🧮 Knowing when to leverage product data and communicate insights to the team
 * 👂 Active listening and becoming an empathetic leader
-* 🤠 I am trying to grow into a people manager, so any feedback related to that would be awesome.
+* 🤠 I am trying to grow into a people manager, so any feedback related to that would be awesome
