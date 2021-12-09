@@ -20,8 +20,11 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 ---
 ## Working with Me
 **🌎 Timezone:** EST (Brooklyn, NY)
+
 **🕐 Working Hours:** Usually 8AM-3PM + 7PM-9PM (I usually climb in the afternoons when I'm not injured 🤕)
+
 **🗣 Textual Communication Style:** funny, direct, short bursty messages
+
 **🤌 I prefer to receive feedback...** quickly, directly, written or verbal! I find the "Situation-Behavior-Impact" format to work well for me.
 
 #### My preferred ways to be contacted are...
@@ -56,4 +59,4 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 * ✍️ My long-form writing ability, striking a balance between conciseness and accuracy
 * My ability to delegate work effectively (I tend to take on too much)
 * 🧮 Being able to effectively digest product data and communicate insights to the team
-* 👂Active listening and becoming an empathetic leader 
+* 👂Active listening and becoming an empathetic leader
