@@ -47,7 +47,7 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 * Distraction, sometimes instant messaging like Slack can be a massive liability for me
 * ______ (help me fill in the blank?)
 
-### ⭐️ I do my best work when...
+### I do my best work when...
 * 🤩 My enthusiasm is met with enthusiasm
 * 🚀 I am talking to end-users and shipping software on a regular basis
 * 🧠 I have time and space to do "deep work"
@@ -67,11 +67,11 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 ### You know I am struggling/stressed when...
 * 😿 I am not my usual smiley, chipper self in meetings!
 * 😵‍💫 I start being checked out from meetings or generally seem hard to reach
-* I start being short with you over Slack
+* 🤐 I start being short with you over Slack
 
 ### (COA 12/8/21) I am currently trying to improve and would appreciate feedback on...
 * ✍️ My long-form writing ability, striking a balance between conciseness and accuracy
-* My ability to delegate work effectively
+* 👥 My ability to delegate work effectively
 * 🧮 Knowing when to leverage product data and communicate insights to the team
 * 👂 Active listening and becoming an empathetic leader
 * 🤠 I am trying to grow into a people manager, so any feedback related to that would be awesome
