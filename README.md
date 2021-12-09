@@ -3,7 +3,7 @@ Hello! If you're reading this, we probably work together.
 
 This repo was created to publicly store my Personal User Manual (PUM), see [this article](https://betterprogramming.pub/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) for more information on PUMs. The questions below are ones I've scraped together from a few different examples, but feel free to use them for your own PUM.
 
-PS: If you read mine, I would be more than happy to hold up my end of the bargain and read yours!
+**PS: If you have a personal user manual, I'd love to read it!**
 
 ---
 ## About Me
@@ -59,4 +59,5 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 * ✍️ My long-form writing ability, striking a balance between conciseness and accuracy
 * My ability to delegate work effectively (I tend to take on too much)
 * 🧮 Being able to effectively digest product data and communicate insights to the team
-* 👂Active listening and becoming an empathetic leader
+* 👂 Active listening and becoming an empathetic leader
+* 🤠 I am trying to grow into a people manager, so any feedback related to that would be awesome.
