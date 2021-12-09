@@ -54,9 +54,9 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 ### You know I am struggling/stressed when...
 * 😿 I am not my usual smiley, chipper self in meetings!
 * 😵‍💫 I start being checked out from meetings or generally seem distracted.
-* I start being short with you over Slack 
+* I start being short with you over Slack
 
-### I am currently trying to improve and would appreciate feedback on...
+### (COA 12/8/21) I am currently trying to improve and would appreciate feedback on...
 * ✍️ My long-form writing ability, striking a balance between conciseness and accuracy
 * My ability to delegate work effectively (I tend to take on too much)
 * 🧮 Being able to effectively digest product data and communicate insights to the team
