@@ -23,7 +23,7 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 
 **🕐 Working Hours:** Usually 8AM-3PM + 7PM-9PM (I usually climb in the afternoons when I'm not injured 🤕)
 
-**🗣 Textual Communication Style:** funny, direct, short bursty messages
+**🗣 Textual Communication Style:** direct, silly, short bursty messages
 
 **🤌 I prefer to receive feedback...** quickly, directly, written or verbal! I find the "Situation-Behavior-Impact" format to work well for me.
 
@@ -32,21 +32,31 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 2. **For a longer discussion,** I would prefer to to spend 30 minutes chatting on Zoom or collaborating on a doc than Slacking back and forth for an hour. If you need my opinion on something where I need a lot of context, some reading material (if it exists) beforehand would be much appreciated!
 3. **For feedback,** feel free to Slack me, start a Zoom meeting, email me, whatever! I love receiving feedback (positive and constructive).
 
+### My Superpowers
+* Meeting facilitation
+* Resolving interpersonal issues
+* User, Stakeholder and Customer interviews
+* Jack-of-all-trades
+* Most right-brain
+
+### Things I struggle with
+* Pulling and analyzing product data
+* Long form writing
+* 
+
 ### I do my best work when...
 * 🤩 My enthusiasm is met with enthusiasm
-* I am talking to end-users and shipping software on a regular basis
-* I am talking to my teammates regularly
-* I have time and space to do "deep work"
+* 🚀 I am talking to end-users and shipping software on a regular basis
+* 🧠 I have time and space to do "deep work"
 * 💖 I feel a high degree of psychological safety and my coworkers are giving me lots of feedback!
 * 🤝 I am trusted by default and have the ability to make bets that may not bear fruit right away
-* I have a clear understanding of what the "big picture" end goal is and am given the opportunity to chart the path from there
-* I feel supported by the organization with help from user research, engineering, design and leadership
+* 🖼 I have a clear understanding of what the "big picture" end goal metric is and am given the opportunity to chart the path from there
+* 🧑‍💻 ENGs are talking to me about ways we could be increasing velocity by addressing cruft
 * 👨🏻‍🚒 I feel my team feels comfortable enough around me to roast me
 
 ### I become de-motivated when...
 * I am not talking to end-users and am not shipping software on a regular basis.
 * Leadership is too "hands-on" and does not trust me to deliver (i.e. helicopter leadership)
-* I have a mountain of user research to parse through all by myself
 * I am being pushed to finish something by a specific date (i.e. death march)
 * I am treated like a "JIRA-Jockey" lots of documenting for leadership, not a lot of new learnings from users
 * I feel like I am no longer learning and am on "auto-pilot"
@@ -59,6 +69,6 @@ I am interested in coffee, climbing, economics/politics, history, web3, and inte
 ### (COA 12/8/21) I am currently trying to improve and would appreciate feedback on...
 * ✍️ My long-form writing ability, striking a balance between conciseness and accuracy
 * My ability to delegate work effectively (I tend to take on too much)
-* 🧮 Being able to effectively digest product data and communicate insights to the team
+* 🧮 Knowing when to leverage product data and communicate insights to the team
 * 👂 Active listening and becoming an empathetic leader
 * 🤠 I am trying to grow into a people manager, so any feedback related to that would be awesome.
