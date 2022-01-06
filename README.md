@@ -22,7 +22,7 @@ I am could talk your ear off about coffee, climbing, economics, history, cryptog
 
 **🤌 I prefer to receive feedback...** I love receiving feedback, seriously! Please toss me any feedback (constructive or positive) anytime in any format.
 <details>
-<summary>Have tough feedback to give me and want a format I like? </summary>
+<summary>_Have tough feedback to give me and want a format I like?_</summary>
 I find the "Situation-Behavior-Impact-Result" format to work well for me.
 
 When {SITUATION} happened you reacted by {BEHAVIOR} and that had {IMPACT} which created {NEGATIVE RESULT}.
@@ -48,4 +48,5 @@ When {SITUATION} happened you reacted by {BEHAVIOR} and that had {IMPACT} which 
 * 🤠 I am trying to grow into a people manager, so any feedback related to 🦻 active listening or empathetic leadership would be great
 
 **PS: If we work together and you have a personal user manual, I'd love to read it!**
-**PPS: If you've made it this far and want help creating your own, I'll volunteer to help you put it together)**
+
+**PPS: If you've made it this far and want help creating your own, I'll volunteer to help you put it together**
