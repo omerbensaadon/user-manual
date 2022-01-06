@@ -20,7 +20,7 @@ I have moved into more and more technical domains in recent years (namely, OSS i
 
 **💬  I love receiving feedback, seriously!** Please toss me any feedback (constructive or positive) anytime in any format.
 
-## Working with Me: About Me
+## Working with me: About me
 
 ### I do my best work when...
 * 💖 I feel a high degree of psychological safety and my enthusiasm 🤩 is met with enthusiasm 🤩
