@@ -6,7 +6,7 @@ In my career, I started off in the Civic/Gov Tech space as a Civic Digital Fello
 
 I have moved into more and more technical domains in recent years (namely, OSS infrastructure). Most recently, I wrote the [Knative Getting Started Guide](https://knative.dev/docs/getting-started/), played a part in giving the Knative site a much needed facelift and helped manage VMware's investment in Knative as part of my work there.
 
-I could talk your ear off about coffee, climbing, economics, history, cryptography, and interior design.
+🗣 I could talk your ear off about coffee, climbing, economics, history, cryptography, and interior design.
 
 ---
 ## Working with Me: Logistics
