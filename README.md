@@ -32,7 +32,7 @@ I have moved into more and more technical domains in recent years (namely, OSS i
 * 👨🏻‍🚒 I feel my team feels comfortable enough around me to roast me
 
 
-### (COA 12/8/21) I am currently trying to improve and would appreciate feedback on...
+### (COA 1/5/21) I am currently trying to improve and would appreciate feedback on...
 * ✍️ My long-form writing ability, improving writing to reach thoughtful, effective conclusions to difficult problems with peers.
 * 👥 My ability to delegate work and knowing when to let someone else take the reigns
 * 🧮 Understanding when to use product data and learning to write effective SQL queries
