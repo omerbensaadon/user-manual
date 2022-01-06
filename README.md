@@ -9,7 +9,7 @@ I have moved into more and more technical domains in recent years (namely, OSS i
 🗣 I could talk your ear off about coffee, climbing, economics, history, cryptography, and interior design.
 
 ---
-## Working with Me: Logistics
+## Working with me: Logistics
 **🌎 Timezone:** EST (Brooklyn, NY)
 
 **🕐 Working Hours:** Usually 8AM-5PM (sometimes I climb in the afternoons 🧗🏼 so I'll be on later in the evening 🌚
