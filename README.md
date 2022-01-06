@@ -18,7 +18,7 @@ I have moved into more and more technical domains in recent years (namely, OSS i
 - I try not to treat Slack like constant-communication and am always "inactive," this creates a barrier-to-entry for messages that I very much appreciate (so I can focus). This cuts both ways, if I message you, I am not expecting a response from you right away.
 - For a longer discussion, I would prefer to spend 30 minutes jamming on Zoom/Google Docs to Slacking back and forth for an hour.
 
-**🤌 I prefer to receive feedback...** I love receiving feedback, seriously! Please toss me any feedback (constructive or positive) anytime in any format.
+**💬  I love receiving feedback, seriously!** Please toss me any feedback (constructive or positive) anytime in any format.
 
 ## Working with Me: About Me
 
