@@ -1,6 +1,4 @@
-# Omer Bensaadon's Personal User Manual
-
-**My name is Omer Bensaadon and I am a Product Manager.**
+## My name is Omer Bensaadon and I am a Product Manager.
 
 As a human, I am an Israeli immigrant who spent most of their formative years in South Florida before heading to the University of Alabama where (fun fact) I graduated 1 credit short of a self-designed Cryptocurrency Minor.
 
