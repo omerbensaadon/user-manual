@@ -12,7 +12,7 @@ I have moved into more and more technical domains in recent years (namely, OSS i
 ## Working with me: Logistics
 **🌎 Timezone:** EST (Brooklyn, NY)
 
-**🕐 Working Hours:** Usually 8AM-5PM (sometimes I climb in the afternoons 🧗🏼 so I'll be on later in the evening 🌚
+**🕐 Working Hours:** Usually 8AM-5PM (sometimes I climb in the afternoons 🧗🏼 so I'll be on later in the evening 🌚)
 
 **📞  Things you should know about my communication style...:**
 - I try not to treat Slack like constant-communication and am always "inactive," this creates a barrier-to-entry for messages that I very much appreciate (so I can focus). This cuts both ways, if I message you, I am not expecting a response from you right away.
