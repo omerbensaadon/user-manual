@@ -14,7 +14,7 @@ I could talk your ear off about coffee, climbing, economics, history, cryptograp
 
 **🕐 Working Hours:** Usually 8AM-5PM (sometimes I climb in the afternoons 🧗🏼 so I'll be on later in the evening 🌚
 
-**🗣 One thing you should know about my communication style...:**
+**📞  One thing you should know about my communication style...:**
 - I try not to treat Slack like constant-communication and am always "inactive," this creates a barrier-to-entry for messages that I very much appreciate (so I can focus). This cuts both ways, if I message you, I am not expecting a response from you right away.
 - For a longer discussion, I would prefer to spend 30 minutes jamming on Zoom/Google Docs to Slacking back and forth for an hour.
 
