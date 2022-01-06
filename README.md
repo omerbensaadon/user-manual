@@ -20,7 +20,7 @@ I have moved into more and more technical domains in recent years (namely, OSS i
 
 **🤌 I prefer to receive feedback...** I love receiving feedback, seriously! Please toss me any feedback (constructive or positive) anytime in any format.
 <details>
-<summary>_Have tough feedback to give me and want a format I like?_</summary>
+<summary> _Have tough feedback to give me and want a format I like?_ </summary>
 I find the "Situation-Behavior-Impact-Result" format to work well for me.
 
 When {SITUATION} happened you reacted by {BEHAVIOR} and that had {IMPACT} which created {NEGATIVE RESULT}.
