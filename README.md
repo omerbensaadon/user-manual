@@ -32,12 +32,5 @@ I have moved into more and more technical domains in recent years (namely, OSS i
 * 👨🏻‍🚒 I feel my team feels comfortable enough around me to roast me
 
 
-### (COA 1/5/21) I am currently trying to improve and would appreciate feedback on...
-* ✍️ My long-form writing ability, improving writing to reach thoughtful, effective conclusions to difficult problems with peers.
-* 👥 My ability to delegate work and knowing when to let someone else take the reigns
-* 🧮 Understanding when to use product data and learning to write effective SQL queries
-* 🤠 I am trying to grow into a people manager, so any feedback related to 🦻 active listening or empathetic leadership would be great
-
 **PS: If we work together and you have a personal user manual, I'd love to read it!**
 
-**PPS: If you've made it this far and want help creating your own, I'll volunteer to help you put it together**
