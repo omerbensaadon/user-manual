@@ -34,3 +34,7 @@ I have moved into more and more technical domains in recent years (namely, OSS i
 
 **PS: If we work together and you have a personal user manual, I'd love to read it!**
 
+---
+
+*This README was edited by an AI assistant (powered by GPT-4.1) as proof of its presence in this project.*
+
